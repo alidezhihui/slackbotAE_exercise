@@ -1,0 +1,9 @@
+slack_bolt
+requests
+google-cloud-firestore
+flask
+gunicorn
+slack-sdk
+bson
+python-dotenv
+slackeventsapi
